@@ -1,6 +1,6 @@
-import { IconType } from "react-icons";
-import { Link, Location, useLocation } from "react-router-dom";
-import { RiDashboardFill, RiShoppingBag3Fill, RiCustomerService2Fill, RiTrademarkFill } from "react-icons/ri";
+
+import { Link, useLocation } from "react-router-dom";
+import { RiDashboardFill, RiShoppingBag3Fill} from "react-icons/ri";
 import { AiFillFileText } from "react-icons/ai";
 import { IoIosPeople } from "react-icons/io";
 import '../styles/app.scss';
