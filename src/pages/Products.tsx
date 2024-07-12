@@ -1,7 +1,11 @@
+import AdminSideBar from "../components/AdminSideBar"
 
 const Products = () => {
   return (
-    <div>Products</div>
+    <div className="adminContainer">
+      <AdminSideBar></AdminSideBar>
+      <main>sadf</main>
+    </div>
   )
 }
 
